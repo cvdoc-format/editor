@@ -23,6 +23,14 @@
 			"quoteStyle": "single"
 		}
 	},
+	"html": {
+		// Full support for HTML super languages is still experimental:
+		// https://biomejs.dev/introduction/language-support/#html-super-languages-support
+		"experimentalFullSupportEnabled": true,
+		"formatter": {
+			"enabled": true,
+		}
+	},
 	"assist": {
 		"enabled": true,
 		"actions": {
