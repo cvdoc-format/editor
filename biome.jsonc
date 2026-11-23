@@ -28,7 +28,7 @@
 		// https://biomejs.dev/introduction/language-support/#html-super-languages-support
 		"experimentalFullSupportEnabled": true,
 		"formatter": {
-			"enabled": true,
+			"enabled": true
 		}
 	},
 	"assist": {
